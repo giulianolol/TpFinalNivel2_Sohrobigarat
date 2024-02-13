@@ -1,0 +1,9 @@
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\Presentacion\obj\Debug\Presentacion.pdb
