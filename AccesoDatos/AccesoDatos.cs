@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AccesoDatos
+namespace Acceso_datos
 {
     //Esta es la clase Acceso Datos, es una clase hecha para realizar cualquier tipo de conexión contra una base de datos.
     //Una consulta, un update, un delete, etc.
@@ -18,7 +18,7 @@ namespace AccesoDatos
 
         public SqlDataReader Lector
         {
-            get { return Lector; }
+            get { return lector; }
         }
 
         //Conexion a la base de datos

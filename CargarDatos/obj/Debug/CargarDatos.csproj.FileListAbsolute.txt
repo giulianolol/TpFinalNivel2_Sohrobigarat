@@ -1,0 +1,11 @@
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\CargarDatos\bin\Debug\CargarDatos.dll
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\CargarDatos\bin\Debug\CargarDatos.pdb
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\CargarDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\CargarDatos\bin\Debug\Dominio.dll
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\CargarDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\CargarDatos\bin\Debug\Dominio.pdb
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\CargarDatos\obj\Debug\CargarDatos.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\CargarDatos\obj\Debug\CargarDatos.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\CargarDatos\obj\Debug\CargarDatos.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\CargarDatos\obj\Debug\CargarDatos.dll
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\CargarDatos\obj\Debug\CargarDatos.pdb

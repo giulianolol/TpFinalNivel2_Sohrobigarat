@@ -1,0 +1,9 @@
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\Dominio\bin\Debug\Dominio.dll
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\Dominio\bin\Debug\AccesoDatos.dll
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\Dominio\bin\Debug\AccesoDatos.pdb
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\Dominio\obj\Debug\Dominio.dll
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\TpFinalNivel2_Sohrobigarat\Dominio\obj\Debug\Dominio.pdb
