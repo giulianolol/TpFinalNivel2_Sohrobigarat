@@ -27,11 +27,19 @@ namespace Presentacion
             CargarDatosClass cargarDatos = new CargarDatosClass();
             listaArticulos = cargarDatos.cargarGrid();
             dgvArticulos.DataSource = cargarDatos.cargarGrid();
-
-            //ocultarColumnas();
-            //pcbLibro.Load(listalibros[0].UrlPortada);
-            //pbxFotoAutor.Load(listalibros[0].UrlFotoAutor);
+            dgvArticulos.Columns["ImagenUrl"].Visible = false;
+            dgvArticulos.Columns["Id"].Visible = false;
         }
 
+        private void btnBuscar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnAgregar_Click(object sender, EventArgs e)
+        {
+            FormularioAgregarArticulo alta = new FormularioAgregarArticulo();
+            alta.ShowDialog();
+        }
     }
 }

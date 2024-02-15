@@ -11,7 +11,11 @@ namespace CargarDatos
 {
     public class CargarDatosClass
 	{ 
-         
+        // Acá creamos una Lista que almanecene elementos de la clase Articulo
+		// Primero intentamos la consulta SQL usando la capa de Acceso Datos y luego 
+		// mientras el Lector este leyendo los valores se van almacenando en una lista
+		// que posteriormente va a ser retornada
+
         public List<Articulo> cargarGrid()
         {
             List<Articulo> listaArticulos = new List<Articulo>();
